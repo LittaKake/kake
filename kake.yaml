@@ -4,3 +4,10 @@ metadata:
   name: kake
 data:
   foo: baz
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: kake-bake
+data:
+  foo: bar
