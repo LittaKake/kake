@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: kake
 data:
-  foo: baz
+  foo: bar
