@@ -4,11 +4,4 @@ metadata:
   name: stuff
 data:
   foo: bar
----
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: stuff2
-data:
-  foo: bar
 
