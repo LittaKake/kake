@@ -3,4 +3,11 @@ kind: ConfigMap
 metadata:
   name: kake
 data:
-  foo: test
+  foo: bar
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: cake
+data:
+  foo: baz
